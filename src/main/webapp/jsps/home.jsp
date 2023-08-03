@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla Web application Dubai23 Project.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaires in IT automation.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
-	Class33 will start on July 15, 2023. </h1>
+<h1 align="center">Landmark Technology - Leaders in software Delivery and Devops Automation</h1>
+<h1 align="center">Welcome to Landmark Technology.....we have a demo on Devops E degree with Linux and Aws on saturday july, 2023 at 11am Landmark Technology is an ideal 
+    online training platform for Devops and Cloud Infrastructures.
+	</h1>
+        <h1 align= "center" >Devops is good.JESUS IS LORD. I AM BLESSED. Production</h1> 
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
